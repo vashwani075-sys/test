@@ -630,3 +630,5 @@ Sab kuch sahi se kiya to:
 ---
 
 *Koi bhi step me problem aaye to CloudWatch logs dekho aur exact error message chatgpt se help lo!*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1c104ec-d2bb-4ec9-b205-c91c2b5294e9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f14d5966-6cc8-4e4b-8b4e-c3cf72cba9c2" />
